@@ -137,6 +137,14 @@ An assorted collection of PB 5.20 examples for Windows and OSX, by {deseven}; re
 
 A rich collection of various projects by {codeprof}, mostly released into the public domain (check licenses on a per folder base).
 
+
+==== https://github.com/senf666/purebasic-demoscene
+
+* https://github.com/senf666/purebasic-demoscene[^,title="Visit this repository on GitHub"]
+
+A rich collection of various demoscene projects written in PureBasic.
+
+
 // =============================================================================
 //                           MIXED ASSETS COLLECTIONS
 // =============================================================================
